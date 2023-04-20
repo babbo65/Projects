@@ -1,3 +1,4 @@
+ #Simple python script that uses a moisture sensor and inserts values into local sqlite3 table
  #!/usr/bin/python
 import spidev
 import os
@@ -19,7 +20,7 @@ if __name__ == "__main__":
         con=mydb.connect('/home/pi/moist.db')
         with con:
                 try:
-                        val1 = readChannel(0)
+                        val1 = readChannel(0)   #averages values 
                         time.sleep(2)
                         val2 = readChannel(0)
                         time.sleep(2)
