@@ -1,3 +1,5 @@
+// Java programs that prompts user to type of given sentence, then calculates words per minutes
+//improvements to be made: more prompts, make time more accurate 
 import java.time.*;
 import java.time.temporal.*;
 import java.util.*;
