@@ -1,5 +1,5 @@
  #Simple python script that uses a moisture sensor and inserts values into local sqlite3 table
- #Used for raspberry pie project through my college computer science club that I founded
+ #Used for raspberry pi project through my college computer science club that I founded
  #!/usr/bin/python
 import spidev
 import os
