@@ -1,2 +1,6 @@
 Collobrative project with a partner for my Language Processesing course.
 Mimics the M3 engima machine but with a limited alphabet to {A, B, C, D, E, F}
+
+Part of the progject was looking to find where the enigma machine fell into the realm of languages,
+we concluded that the enigma machine itself is likely a Turing Machine but its individual componants 
+are either context free or regular languages. Can provide full report upon request.
