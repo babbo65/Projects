@@ -1,7 +1,13 @@
 # Projects
-Here are some personal projects that I have created, alongside some interesting projects I created through coursework, including the source code
+**Here are some personal projects that I have created, alongside some interesting projects I created through coursework, including the source code.**
 
-Please view Software Engineering project including all pull requests through here: https://github.com/colinm0125/SE-Project
+**Current project: https://github.com/babbo65/nslmini**
+Implementation of award winning netscanlogger project recognized by IBM (https://mhvtechmeet.wixsite.com/home), adapted to be used on home network
+rather than enterprise level. 
+
+**TryhackMe profile: https://tryhackme.com/p/BrianA**
+
+**Please view Software Engineering project including all pull requests through here: https://github.com/colinm0125/SE-Project**
 Project included applying the following concepts and resources:
 -Object oriented programming
 -GitHub workflows
